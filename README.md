@@ -6,3 +6,7 @@
       learning and improve myself every day.
 
 - 👯 I’m eager to collaborate on projects that will help me expand my knowledge and skills.
+
+# :desktop_computer:  Here is my Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,pycharm,php,visualstudio,&theme=light)](https://skillicons.dev)
