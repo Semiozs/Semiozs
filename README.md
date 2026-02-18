@@ -9,4 +9,4 @@
 
 # :desktop_computer:  Here is my Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=aws,py,java,pycharm,php,visualstudio,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,js,py,java,pycharm,php,visualstudio,&theme=light)](https://skillicons.dev)
